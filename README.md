@@ -1,9 +1,11 @@
 ### 꾸준히 공부하는 **노소연**입니다.
 
+
+##### ["Go notion portfolio"](https://lofty-pyrite-b3f.notion.site/about-SOYEON-ROH-f31ff8e4f14142bba40cc076424371ff)
+<!--
+
 #### 통계학, 데이터 분석 그리고 시각화 지식과 기술을 공부하고 있습니다. 
 #### 분석을 통한 인사이트를 근거로 비즈니스에 기여하고 싶습니다. 
-
-##### ["more information about me"](https://heoni00.github.io/about/)
 
 ##### 🏢 Career
 
@@ -34,7 +36,7 @@ R (통계 라이브러리, ggplot) / EXCEL / SPSS
 
 사회조사분석사 2급 / ADsP / SQLD / 컴퓨터활용능력 1급 
 
-<!--
+
 **soyeonie/soyeonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
