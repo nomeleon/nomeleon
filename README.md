@@ -3,14 +3,15 @@
 #### 협업을 위해 배려하고 소통합니다.
 
 ##### ["Go notion portfolio"](https://lofty-pyrite-b3f.notion.site/about-SOYEON-ROH-f31ff8e4f14142bba40cc076424371ff)
-<!--
+
 ##### 🏢 Career
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
-| **2022.01 - .06** | **전북선거관리위원회 여론조사 분석요원** | [**선거여론조사 Raw Data 분석 및 조사결과 통계 해석**](https://heoni00.github.io/professional-exp/pollanalysis/#선거여론조사-분석-모니터링-요원으로서-수행한-업무) |
-| **2021.09 - .12** | **공공데이터 청년인턴** | **공공 개방데이터 품질 진단 및 개선** |
+<!--| **2022.09 - ** | **주식회사 장인의공간 근무** | [**선거여론조사 Raw Data 분석 및 조사결과 통계 해석**](https://heoni00.github.io/professional-exp/pollanalysis/#선거여론조사-분석-모니터링-요원으로서-수행한-업무) | -->
+| **2022.09 - ** | **주식회사 장인의공간 근무** | **전력거래소, 전기연구원 프로젝트 진행** |
 
+<!--
 ##### 🏆 Project  
 
 | PERIOD | TITLE | SUBJECT |
