@@ -15,8 +15,8 @@
 
 | PERIOD | TITLE | SUBJECT | USE SKILL | 
 | ------- | ------- | -------| -------|
-| **2022.09 -** | **통합 운영발전계획(UC)시스템 유지관리 (전력거래소 KPX)** | **통합 운영발전계획(UC)시스템 웹 유지관리** | **Nexacro(Javascript), Egov(Spring Framework, Java), Toad(Oracle), SVN** |
-| **2023.09 -** | **동기조상기 데이터관리 및 모델검증시스템 구축 (전기연구원 KERI)** | **측정 기반 동기조상기 모델 및 계통관성 운영 기술 관리 웹 개발** | **VSCode(React, JSX, Javascript), Egov(Spring Boot, JPA, Java), MYSQL, SVN** |
+| 2022.09 - | 통합 운영발전계획(UC)시스템 유지관리 (전력거래소 KPX) | 통합 운영발전계획(UC)시스템 웹 유지관리 | Nexacro(Javascript), Egov(Spring Framework, Java), Toad(Oracle), SVN |
+| 2023.09 - | 동기조상기 데이터관리 및 모델검증시스템 구축 (전기연구원 KERI) | 측정 기반 동기조상기 모델 및 계통관성 운영 기술 관리 웹 개발 | VSCode(React, JSX, Javascript), Egov(Spring Boot, JPA, Java), MYSQL, SVN |
 
 <!-- | **2022.01 - .01** | **전북대 빅데이터 분석 경연대회** | [**지하철 유동인구와 공기질 분석 및 지도 시각화**](https://github.com/heoni00/2022-AnalysisCompetition-Subway) |
 | 해외경험 | | |
