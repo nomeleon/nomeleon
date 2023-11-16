@@ -9,6 +9,7 @@
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
 | **2021.09 - 2021.12** | 스마트인재개발원 수료 | java, javascript, python, SQL, Spring 등 기초 교육 수료 |
+| **2022.02 - 2022.05** | 타이아 (주) 근무 |  |
 | **2022.09 -** | [**주식회사 장인의공간**](http://www.masterspace.co.kr/renewal/main/main.asp) 근무 | 전력거래소(KPX), 전기연구원(KERI) 프로젝트 진행 |
 
 
